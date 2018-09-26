@@ -1,18 +1,4 @@
 Cambio en la branch dev
 ssssaaaaa
-aHola aaaa
-
-
-
-a
-password_digest
-
-
-a
-a
-a
-a
-a
-a
-a
-crud
+aHola aa
+lorem ipsum
